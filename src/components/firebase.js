@@ -3,13 +3,12 @@ import "firebase/compat/auth";
 import "firebase/compat/firestore";
 
 const firebaseApp = firebase.initializeApp({
-  apiKey: "AIzaSyD0NjtvsTHplgUIBm9swVZ0H3tfYNKihe0",
-  authDomain: "shantof-9919c.firebaseapp.com",
-  projectId: "shantof-9919c",
-  storageBucket: "shantof-9919c.appspot.com",
-  messagingSenderId: "550247532417",
-  appId: "1:550247532417:web:806839c726575e793a4a80",
-  measurementId: "G-B92J8T7DRP",
+  apiKey: "AIzaSyCq_dXbnssiedOReSmUPPpsjx1IfywVz0A",
+  authDomain: "todo-page-27c1a.firebaseapp.com",
+  projectId: "todo-page-27c1a",
+  storageBucket: "todo-page-27c1a.appspot.com",
+  messagingSenderId: "430479436471",
+  appId: "1:430479436471:web:56cf46b37d104a37837b32",
 });
 
 const db = firebaseApp.firestore();
