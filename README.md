@@ -1,8 +1,5 @@
-# React + Vite
+# todo_firebase
+<img style="width: 500px;" src="https://raw.githubusercontent.com/3mmar0/todo_firebase/main/src/assets/td.png" alt="web page" />
+this an intro project to react and firebase.<br /><br/>
+this application is one page, where you can make your todo-list by creating, editting or deleting.<br /><br/>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
